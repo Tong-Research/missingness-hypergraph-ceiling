@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+VERIFY.log
+# decompressed copies of the shipped .csv.gz files (made by reproduce.sh)
